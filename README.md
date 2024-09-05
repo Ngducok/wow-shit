@@ -3,11 +3,11 @@
 # Usage
 ```
 step 1 : open termux (with root)
-step 2 : cd /storage/emulated/0/download
-step 3 : git clone https://github.com/Ngducok/wow-shit.git ( must have git installed, if u dont have it then use pkg install git)
-step 4 : cd /storage/emulated/0/download/wow-shit
-step 5 : chmod +x 2.sh 
-step 6 : go to that folder again and use : python 1.py
+step 2 : use this command : pkg update -y && pkg upgrade -y && termux-change-repo && pkg install python -y && pip install --upgrade pip && pip install requests colorama pystyle
+step 3: cd /storage/emulated/0/download
+step 4 : git clone https://github.com/Ngducok/wow-shit.git ( must have git installed, if u dont have it then use pkg install git)
+step 5 : cd /storage/emulated/0/download/wow-shit
+step 6 : use : python 1.py
 ```
 
 ## Have bugs? please let us know in our discord server
