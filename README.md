@@ -4,7 +4,7 @@
 ```
 step 1 : open termux (with root)
 step 2 : cd /storage/emulated/0/download
-step 3 : git clone https://github.com/Ngducok/wow-shit.git
+step 3 : git clone https://github.com/Ngducok/wow-shit.git ( must have git installed, if u dont have it then use pkg install git)
 step 4 : cd /storage/emulated/0/download/wow-shit
 step 5 : chmod +x 2.sh 
 step 6 : go to that folder again and use : python 1.py
