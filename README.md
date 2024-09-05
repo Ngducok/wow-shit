@@ -11,6 +11,6 @@ step 6 : go to that folder again and use : python 1.py
 ```
 
 ## Have bugs? please let us know in our discord server
-[official Banana Cat Hub Discord](discord.gg/chuoihup)
+[Official Banana Cat Hub Discord](discord.gg/chuoihub)
 
 # Made By Dustin 
