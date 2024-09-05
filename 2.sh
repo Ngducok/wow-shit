@@ -1,11 +1,13 @@
+#!/bin/bash
+
 pkg update -y && pkg upgrade -y
 
 termux-change-repo
 
-pkg install python
+pkg install python -y
 
 pip install --upgrade pip
 
-pip install subprocess time threading signal os sys requests colorama pystyle
+pip install requests colorama pystyle
 
-echo "downloaded successfully"
+echo "Packages installed successfully"
